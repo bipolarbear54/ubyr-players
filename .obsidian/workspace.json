@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "63cd53304caa7b63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bag Of Holding.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PCs/Jorje D'Moor.md",
+                "file": "Bag Of Holding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PCs/Jorje D'Moor.md",
+                "file": "Bag Of Holding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PCs/Jorje D'Moor.md"
+                "file": "Bag Of Holding.md"
               }
             }
           },
@@ -154,10 +167,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec124890d99279ad",
+  "active": "63cd53304caa7b63",
   "lastOpenFiles": [
-    "Season 2/Session 3.md",
     "PCs/Jorje D'Moor.md",
+    "Bag Of Holding.md",
+    "NPCs/Urbyr.md",
+    "Season 2/Session 3.md",
     "Season 2/Session 2.md",
     "Season 2/Session 1.md",
     "Season 2/Season 2.md",
