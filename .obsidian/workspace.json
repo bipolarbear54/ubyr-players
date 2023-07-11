@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Season 2/Session 1.md",
+                "file": "PCs/Jorje D'Moor.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Season 2/Session 1.md",
+                "file": "PCs/Jorje D'Moor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Season 2/Session 1.md",
+                "file": "PCs/Jorje D'Moor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Season 2/Session 1.md"
+                "file": "PCs/Jorje D'Moor.md"
               }
             }
           },
@@ -154,10 +154,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d074c2ff9a84132",
+  "active": "ec124890d99279ad",
   "lastOpenFiles": [
-    "Season 2/Season 2.md",
+    "Season 2/Session 3.md",
+    "PCs/Jorje D'Moor.md",
+    "Season 2/Session 2.md",
     "Season 2/Session 1.md",
+    "Season 2/Season 2.md",
     "Season 2.md",
     "Season 2/Untitled",
     "Season 2",
