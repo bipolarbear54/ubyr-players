@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bag Of Holding.md",
+                "file": "Season 2/Session 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bag Of Holding.md",
+                "file": "Season 2/Session 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bag Of Holding.md",
+                "file": "Season 2/Session 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bag Of Holding.md"
+                "file": "Season 2/Session 2.md"
               }
             }
           },
@@ -169,10 +169,10 @@
   },
   "active": "63cd53304caa7b63",
   "lastOpenFiles": [
-    "PCs/Jorje D'Moor.md",
-    "Bag Of Holding.md",
-    "NPCs/Urbyr.md",
     "Season 2/Session 3.md",
+    "Bag Of Holding.md",
+    "PCs/Jorje D'Moor.md",
+    "NPCs/Urbyr.md",
     "Season 2/Session 2.md",
     "Season 2/Session 1.md",
     "Season 2/Season 2.md",
